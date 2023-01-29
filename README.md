@@ -17,7 +17,7 @@ Snapclima é uma aplicação que mostra o clima em determinado lugar, tanto pela
 <br>
 
 <p align="center">
-  <img alt="snapclima" src=".github/preview.png" width="20%">
+  <img alt="snapclima" src=".github/preview.png" width="40%">
 </p>
 
 ## 🚀 Tecnologias
